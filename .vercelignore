@@ -1,0 +1,7 @@
+.skill/
+lab/
+scrollcraft/
+node_modules/
+build-roster.mjs
+BRIEF.md
+package-lock.json

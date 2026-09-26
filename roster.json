@@ -1,0 +1,26 @@
+{
+  "_comment": "THE ONLY PLACE CLIENT NAMES LIVE. Edit here, then run: node build-roster.mjs",
+  "clients": [
+    { "name": "Adidas",                 "sector": "Sportswear",        "format": ":30 and :15", "daypart": "Prime",         "year": "2023", "scale": "large" },
+    { "name": "Ostrander Ford",         "sector": "Auto retail",       "format": ":30 and :15", "daypart": "Early fringe",  "year": "2024", "scale": "small" },
+    { "name": "Rivergate Orthodontics", "sector": "Dental",            "format": ":15",         "daypart": "Daytime",       "year": "2024", "scale": "small" },
+    { "name": "Tillman Heating & Air",  "sector": "Home services",     "format": ":30",         "daypart": "Late fringe",   "year": "2025", "scale": "small" },
+    { "name": "Fairmount Credit Union", "sector": "Banking",           "format": ":30 and :06", "daypart": "Daytime",       "year": "2024", "scale": "small" },
+    { "name": "Lakeshore Collision",    "sector": "Auto body",         "format": ":15",         "daypart": "Late fringe",   "year": "2023", "scale": "small" },
+    { "name": "Pemberton Furniture",    "sector": "Home retail",       "format": ":60 and :30", "daypart": "Weekend",       "year": "2025", "scale": "small" },
+    { "name": "Meridian Tire",          "sector": "Auto retail",       "format": ":30",         "daypart": "Early fringe",  "year": "2023", "scale": "small" },
+    { "name": "Selby Garden Centre",    "sector": "Garden retail",     "format": ":30",         "daypart": "Daytime",       "year": "2025", "scale": "small" },
+    { "name": "Calder & Sons Flooring", "sector": "Home services",     "format": ":30",         "daypart": "Early fringe",  "year": "2024", "scale": "small" },
+    { "name": "Hollis Pest Control",    "sector": "Home services",     "format": ":15 and :06", "daypart": "Daytime",       "year": "2024", "scale": "small" },
+    { "name": "Vasquez Law",            "sector": "Legal",             "format": ":30",         "daypart": "Late fringe",   "year": "2023", "scale": "small" },
+    { "name": "Blue Ash Appliance",     "sector": "Home retail",       "format": ":30 and :15", "daypart": "Weekend",       "year": "2025", "scale": "small" },
+    { "name": "Marigold Bakery",        "sector": "Food retail",       "format": ":15",         "daypart": "Daytime",       "year": "2025", "scale": "small" },
+    { "name": "Quint Brothers Roofing", "sector": "Home services",     "format": ":30",         "daypart": "Early fringe",  "year": "2023", "scale": "small" },
+    { "name": "Hadley Sleep Co.",       "sector": "Home retail",       "format": ":60 and :30", "daypart": "Late fringe",   "year": "2024", "scale": "small" },
+    { "name": "Cotter Marine",          "sector": "Marine retail",     "format": ":30",         "daypart": "Weekend",       "year": "2024", "scale": "small" },
+    { "name": "Nordhagen Dental",       "sector": "Dental",            "format": ":15",         "daypart": "Daytime",       "year": "2023", "scale": "small" },
+    { "name": "Wickham Feed & Seed",    "sector": "Agricultural",      "format": ":30",         "daypart": "Overnight",     "year": "2025", "scale": "small" },
+    { "name": "Delacroix Salon",        "sector": "Personal care",     "format": ":15",         "daypart": "Daytime",       "year": "2024", "scale": "small" },
+    { "name": "Arbor Ridge Dental",     "sector": "Dental",            "format": ":30 and :15", "daypart": "Early fringe",  "year": "2025", "scale": "small" }
+  ]
+}
