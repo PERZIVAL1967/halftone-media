@@ -1,7 +1,11 @@
+# Nothing here is part of the site. package.json exists only so the Playwright
+# verification harness can be installed locally; leaving it visible makes Vercel
+# run an install on every deploy for a dependency the page never uses.
 .skill/
 lab/
 scrollcraft/
 node_modules/
+package.json
+package-lock.json
 build-roster.mjs
 BRIEF.md
-package-lock.json
